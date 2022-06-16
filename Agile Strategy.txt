@@ -31,6 +31,11 @@ The purpose of Agile
 4. Monitor current state of the project
 Quantitative metrics: baseline data about project
    - such as release time, # of errors, delays
+   - when choosing metric ask: 
+         - can it be accurate quantified? 
+         - can we act on the metric? 
+         - will it be relavent in the future?
 Qualitative:
-   - talk to management team to point out realities that dont show up in numbers
+   - talk to management team to point out realities that dont show up in numbers 
 
+- monitor current state with another chart

@@ -22,7 +22,7 @@ The purpose of Agile
 
 3. Build Agile Roadmap
 	- 4 Rows
-	Time frame Now, Next, Someday
+	Time frame: Now, Next, Someday
 	Goals - What we are seeking, usually not measurable statements. 
          - Usually 2-3 goals
          - Focus on Goals, not features

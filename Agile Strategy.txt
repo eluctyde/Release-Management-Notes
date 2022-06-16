@@ -1,4 +1,4 @@
-Notes from Agile Release Managmentment course on Udemy
+Notes from Agile Release Management course on Udemy
 by Raj Elakkara
 
 Agile Strategy
@@ -29,7 +29,11 @@ The purpose of Agile
   	Key results - metrics used to determine if goal is achieved
 
 4. Monitor current state of the project
+<<<<<<< HEAD
 Quantitative metrics: baseline data about project
    - such as release time, # of errors, delays
 Qualitative:
    - talk to management team to point out realities that dont show up in numbers
+=======
+- Gather
+>>>>>>> 7a4b462e30380865bdfb0c3965118c3d08976e01

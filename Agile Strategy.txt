@@ -11,12 +11,14 @@ The purpose of Agile
 
 1. Make Product Vision
    - 2-5 or more year destination goals.
+
 2. Make product vision board
 - contain vision statement at top to ralley team
 - under this we have 4 columns target group,
    - target group needs
    - product needs 
    - business goals
+
 3. Build Agile Roadmap
 	- 4 Rows
 	Time frame Now, Next, Someday
@@ -27,4 +29,7 @@ The purpose of Agile
   	Key results - metrics used to determine if goal is achieved
 
 4. Monitor current state of the project
-- Gather
+Quantitative metrics: baseline data about project
+   - such as release time, # of errors, delays
+Qualitative:
+   - talk to management team to point out realities that dont show up in numbers

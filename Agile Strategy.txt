@@ -1,0 +1,27 @@
+Agile Strategy
+--------------
+The purpose of Agile
+- SMART Goals
+- managing the work to be done
+- date and budget constraints
+- monitor and adapt
+
+1. Make Product Vision
+   - 2-5 or more year destination goals.
+2. Make product vision board
+- contain vision statement at top to ralley team
+- under this we have 4 columns target group,
+   - target group needs
+   - product needs 
+   - business goals
+3. Build Agile Roadmap
+	- 4 Rows
+	Time frame Now, Next, Someday
+	Goals - What we are seeking, usually not measurable statements. 
+         - Usually 2-3 goals
+         - Focus on Goals, not features
+  	Candidates - possible things to do to reach goals
+  	Key results - metrics used to determine if goal is achieved
+
+4. Monitor current state of the project
+- Gather

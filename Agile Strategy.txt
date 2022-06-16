@@ -1,3 +1,6 @@
+Notes from Agile Release Managmentment course on Udemy
+by Raj Elakkara
+
 Agile Strategy
 --------------
 The purpose of Agile

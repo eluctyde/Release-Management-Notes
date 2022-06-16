@@ -14,7 +14,8 @@ The purpose of Agile
 
 2. Make product vision board
 - contain vision statement at top to ralley team
-- under this we have 4 columns target group,
+- under this we have 4 columns:
+   - target group,
    - target group needs
    - product needs 
    - business goals
@@ -28,7 +29,7 @@ The purpose of Agile
   	Candidates - possible things to do to reach goals
   	Key results - metrics used to determine if goal is achieved
 
-4. Monitor current state of the project
+4. Monitor current state of the project with another table containing:
 Quantitative metrics: baseline data about project
    - such as release time, # of errors, delays
    - when choosing metric ask: 
@@ -37,5 +38,3 @@ Quantitative metrics: baseline data about project
          - will it be relavent in the future?
 Qualitative:
    - talk to management team to point out realities that dont show up in numbers 
-
-- monitor current state with another chart

@@ -1,0 +1,24 @@
+Finding Target Audience
+
+User Personas
+--------------
+Represent your customers with a variety of users who may use the software.
+
+Make fake profiles of people which may contain:
+imagined likes, dislikes, hobbies, hopes, experiences, location, education, age
+
+Do's:
+- mix instinct and data 
+- get data from many sources
+- be creative
+
+Dont's
+- don't worry about style, this is used internally only
+- dont work in isolation, include marketing and design team, etc
+- dont stick to one personal, make personas for each type of target group
+- dont create too many, stick to main target groups, at most 4 or 5 who represent most important user groups
+
+Steps to create personas:
+1. Sketch out what you know and what want to know
+2. Gather data (surveys are a good idea with social media campaigns)
+3. Analyze data, try to find correlation with demographics and behavior 

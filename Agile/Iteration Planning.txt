@@ -1,0 +1,22 @@
+Iteration Planning
+
+In Agile, there are 2 main tactics to iteration planning:
+
+Velocity based planning:
+------------------------
+ - The amount of work a team can do in current sprint, is roughly the same
+ as the last sprint
+
+ Steps:
+ 1. determine target velocity (ideal days or story points)
+ 2. sprint goals
+ 3. come up with "Stories" or major things needed related to goals
+ 4. split major actions into tasks and estimate time
+
+Capacity or Commitment based planning:
+---------------------------------------
+1. Select sprint goal
+2. come up with "story" to solve goal
+3. split stories into tasks and estimate time
+4. Ask the team for a commitment and team completes tasks and selects new
+5. at the compare where they are at to previous sprint

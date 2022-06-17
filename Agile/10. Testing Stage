@@ -1,0 +1,28 @@
+Testing Stage
+
+
+Testing Stack:
+--------------
+
+These tests are ordered from greatest number of tests needed,
+and go up in cost as you go down the list.
+1. Unit - tests unit of code to make sure it works as expected
+		- almost all automated
+
+2. Integration - making sure pieces of code work together properly
+
+3. End to End - make sure meets user expectations
+
+4. Exploration - testing from user prospective
+
+
+- The more frequent releases, 
+the more you need to invest in test automation
+
+when making testing stack consider:
+- reliability 
+- easy test creation
+- need for maintenance 
+- integration with CI/CD stack
+
+Dark launches may release updates to only small number of people

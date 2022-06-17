@@ -1,1 +1,21 @@
 
+Configuration Management
+
+1. Provides clear documentation on:
+Servers, Databases, OS's, Networking, Apps, etc.
+
+2. Helps answer questions:
+What services are we running?
+
+What state are services in?
+
+How did they get to current state?
+
+What was purpose for change?
+
+
+3. Provides tracking for hardware and software assets
+
+
+- admins used to do this manually, but now cloud does this with Config data files
+   - provides audit trail with ability to rollback to previous state

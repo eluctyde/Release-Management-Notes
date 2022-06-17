@@ -1,0 +1,17 @@
+Risk Management
+
+
+4 Types of Risks that teams need to be aware of:
+
+1. Value risk - does the user perceived real value from the new feature?
+				- sometimes this is done with a test software in low risk environment
+
+2. Usability risk - is it going to be easy to use? how does the feature
+					 impact the established user workflow?
+
+3. Feasibility risk - can we actually build it?
+
+4. Business viability - cost of scaling and supporting?
+
+See this image to see how you can put the above risks together to manage risks in each Scrum sprint:
+https://github.com/eluctyde/Release-Management-Notes/blob/main/Agile/risk.jpg

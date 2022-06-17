@@ -1,0 +1,13 @@
+CI/CD
+
+
+1. Continuous Integration
+
+Developers using CI will make a branch of the dev branch to make changes and merge code with main branch as often as possible.
+
+2. Continuous Delivery
+
+Extension of CI. It deploys app to testing or staging environment automatically.
+
+Testing > staging > production
+

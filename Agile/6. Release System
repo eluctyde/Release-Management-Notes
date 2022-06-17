@@ -1,0 +1,23 @@
+Release System
+
+
+Dev environment > staging > production
+
+
+3 Key Ingredients to good release:
+
+1. Modular architecture - group similar features into smaller apps/components and build API contracts to communicate with these apps.
+- can test each app before each release
+- this means there are fewer moving parts in each app, therefore less major overhaul releases needed
+
+2. Great relationships - 
+	Developers can use these techniques to work better with others in co:
+		a. Make bill of materials for each release clear.
+				-bill of materials == list of all open source and third
+				party components present in code base.
+				-also lists licenses, versions, and patch status of components
+		b. Provide link to issue tracker for each version of software released.
+		c. Call out issues during push from dev environment to staging, to avoid issues pushing to production.
+
+3. Automate Release Process
+- start by automate release to staging

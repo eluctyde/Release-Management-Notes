@@ -22,6 +22,9 @@ Dont's
 - dont create too many, stick to main target groups, at most 4 or 5 who represent most important user groups
 
 Steps to create personas:
-1. Sketch out what you know and what want to know
+1. Define assumptions - Sketch out what you know and what want to know
 2. Gather data (surveys hosted on website are a good idea with social media campaigns)
 3. Analyze data, try to find correlation with demographics and behavior 
+
+
+Tools to build personas: Figma, Sketch, canva (most user friendly)

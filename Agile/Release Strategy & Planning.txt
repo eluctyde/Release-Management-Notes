@@ -1,0 +1,53 @@
+Release Strategy
+----------------
+
+Release strategy depends on:
+1. The more risky or important the software, determines the amount of
+ rigorous quality control and testing before each release.
+
+2. Customer ability to handle the new release.
+
+3. Delivery infrastructure - Ability to release frequently depends on 
+delivery infrastructure. In general, the more automation, the more often 
+you can release it.
+
+4. Solution architecture - is it possible to enable/disable functionality?
+
+5. Cost vs risk - The more manual the deployment process, the more expensive it becomes and more risk.
+
+6. Release cadence of other teams
+
+
+Cadence Options: 
+Many times a day - big CI/CD investment
+, daily, weekly, biannual, annual, etc.
+
+
+Release Planning
+-----------------
+
+Estimate:
+
+to estimate the effort needed for each task. Should consider:
+    - Amount of work needed
+    - Complexity of work
+    - Uncertainties
+1. Estimate size of work, derive duration, set commitment with date
+
+- Estimation is not planning, it is an unbiased analytical process.
+- It's important to keep estimation and planning separate.
+
+For example, when you want to hit a target date to release software, you 
+want to develop a plan, not an estimate.
+- By making a plan you'd be able to prioritize features and balance
+ release dates
+
+
+The Iron Triangle:
+
+These three variables are reliant on each other on each project and can be
+ changed to determine outcomes:
+Date, Budget, Scope
+
+Changing one of these items above affects the others.
+They may be fixed or variable.

@@ -1,3 +1,6 @@
+Notes from Agile Release Management course on Udemy
+by Raj Elakkara
+
 Finding Target Audience
 
 User Personas

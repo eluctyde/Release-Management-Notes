@@ -1,0 +1,21 @@
+Deployment Pipeline
+
+
+
+A way to move code from version control to production.
+
+
+Stages of deployment pipeline
+1. Commit - pull request for new code addition to repo
+          - run unit tests
+2. Build app - create packages for deployment to desired environments
+3. Quality control - run different tests
+4. Deploy to testing or live environment
+
+Some steps may be auto or manually done. Each pipeline is different.
+
+
+Pipeline considerations
+1. Build automation
+2. Test automation
+3. Deployment automation
